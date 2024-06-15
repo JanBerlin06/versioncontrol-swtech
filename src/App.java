@@ -3,6 +3,7 @@ public class App {
         System.out.println("Ich will kontrolliert werden:");
 
         Version version = new Version(1.0, "EIneNeueApp");
+        Person pers = new Person("Gerda", 66, "weiblich");
 
         System.out.println(version);
         System.out.println("Ich bin eine Änderung!");
@@ -11,5 +12,6 @@ public class App {
 
 
         System.out.println("git diff test"); 
+        System.out.println(pers); 
     }
 }
