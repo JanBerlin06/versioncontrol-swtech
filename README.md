@@ -11,7 +11,11 @@ git add, commit, push:
 
 <img width="1226" alt="Bildschirmfoto 2024-06-15 um 14 29 32" src="https://github.com/JanBerlin06/versioncontrol-swtech/assets/122086059/c7acccaf-c7b9-42b3-bbcf-869ce3f12d98">
 
-<br/>
+
 git status:
 
 <img width="898" alt="Bildschirmfoto 2024-06-15 um 14 46 58" src="https://github.com/JanBerlin06/versioncontrol-swtech/assets/122086059/a4c13d77-35b8-46aa-b6f3-285e3d1cc4a5">
+
+git diff:
+
+<img width="947" alt="Bildschirmfoto 2024-06-15 um 14 49 03" src="https://github.com/JanBerlin06/versioncontrol-swtech/assets/122086059/943924a9-07db-45a9-920c-586d587ed946">
