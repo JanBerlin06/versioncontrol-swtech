@@ -8,5 +8,8 @@ public class App {
         System.out.println("Ich bin eine Änderung!");
         System.out.println("Ich bin eine weitere Änderung!");
         System.out.println("Und noch eine!");
+
+
+        System.out.println("git diff test"); 
     }
 }
