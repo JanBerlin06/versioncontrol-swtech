@@ -7,5 +7,6 @@ public class App {
         System.out.println(version);
         System.out.println("Ich bin eine Änderung!");
         System.out.println("Ich bin eine weitere Änderung!");
+        System.out.println("Und noch eine!");
     }
 }
