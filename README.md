@@ -28,6 +28,13 @@ Branches & Zeitlinien
 
 
 
+Pull-Request auf https://github.com/edlich/education.git :
+
+
+<img width="1247" alt="Bildschirmfoto 2024-06-16 um 11 53 22" src="https://github.com/JanBerlin06/versioncontrol-swtech/assets/122086059/94c44b6e-5aa1-4157-8c6c-39213525e179">
+
+
+
 
 
 
