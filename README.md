@@ -28,13 +28,14 @@ Basics of Versioncontrol für Software Technik 4. Semster
 
 
 
+
 <h2>Pull-Request auf https://github.com/edlich/education.git :</h2>
 
 
 <img width="1247" alt="Bildschirmfoto 2024-06-16 um 11 53 22" src="https://github.com/JanBerlin06/versioncontrol-swtech/assets/122086059/94c44b6e-5aa1-4157-8c6c-39213525e179">
 
 
-
+<img width="906" alt="Bildschirmfoto 2024-06-16 um 11 59 29" src="https://github.com/JanBerlin06/versioncontrol-swtech/assets/122086059/29ac41bc-efba-4728-ac28-3baed62e64f3">
 
 
 
